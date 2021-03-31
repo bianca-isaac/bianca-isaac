@@ -24,10 +24,12 @@ I'm currently studying the tools for Data Science to be able to gain more busine
 * Undergraduate in Physical Education
 * M.B.A. in Project Management 
 
+---
 
 **Skills in:** 🤓 
 Econometrics, Power BI, Business Management, Former professional athlete.
 
+---
 
 **Where to find me:** 🔍
 * :briefcase:[LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
@@ -35,6 +37,7 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 * :email: [E-mail](biancarisaac@gmail.com)
 * :camera: [Instagrram](https://biancarisaac.medium.com/)
 
+---
 
 ## Projects:
 
