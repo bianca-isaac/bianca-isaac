@@ -31,7 +31,8 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 ---
 
 
-[Portfolio page](https://github.com/bianca-isaac/Portfolio)
+**Portfólio page** (https://bit.ly/2PrPiWG)
+
 ---
 
 **Where to find me:** 🔍
