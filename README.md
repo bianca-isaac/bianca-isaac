@@ -7,7 +7,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 
----
+
 
 
 Over the years I have managed to develop critical thinking and problem solving skills.
@@ -29,7 +29,9 @@ I'm currently studying the tools for Data Science to be able to gain more busine
 Econometrics, Power BI, Business Management, Former professional athlete.
 
 ---
-** [Portfólio page:] (https://github.com/bianca-isaac/Portfolio)
+
+[Portfólio page:] (https://github.com/bianca-isaac/Portfolio)
+
 ---
 
 **Where to find me:** 🔍
@@ -41,3 +43,6 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 ---
 
 ![](https://komarev.com/ghpvc/?username=bianca-isaac&color=blue&style=flat
+
+
+
