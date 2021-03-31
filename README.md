@@ -8,7 +8,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 
 ---
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
+
 
 Over the years I have managed to develop critical thinking and problem solving skills.
 I have experience in business and sports performance statistical analysis and I work with data collection, preparation, and presentation.
@@ -31,10 +31,10 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 ---
 
 **Where to find me:** 🔍
-* :briefcase:width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
-* :pencil2:[Medium](https://biancarisaac.medium.com/) width="16"></img></a> 
-* :email: [E-mail](biancarisaac@gmail.com)width="16"></img></a> 
-* :camera: [Instagrram](https://biancarisaac.medium.com/)width="16"></img></a> 
+* :briefcase:[LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
+* :pencil2:[Medium](https://biancarisaac.medium.com/) 
+* :email: [E-mail](biancarisaac@gmail.com)
+* :camera: [Instagrram](https://biancarisaac.medium.com/)
 
 ---
 
