@@ -5,10 +5,10 @@
   <img src="https://github.com/bianca-isaac/Portfolio/blob/main/Capa_github.jpg" >
 </p>
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
+# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 
 
-# Bianca Isaac
+### Bianca Isaac
 <sub>*Data Scientist Student*</sub>
 
 Over the years I have managed to develop critical thinking and problem solving skills.
@@ -18,19 +18,22 @@ I have experience in business and sports performance statistical analysis and I 
 I'm currently studying the tools for Data Science to be able to gain more business insights and help the company's growth.
 
 
-**Academic Educational background** 
+**Academic Educational background** 🎓
 * Data Science Student 
 * B.A. in Economics Economia
 * Undergraduate in Physical Education
 * M.B.A. in Project Management 
 
 
-**Skills in:** Econometrics, Power BI, Business Management, Former professional athlete.
+**Skills in:** 🤓 
+Econometrics, Power BI, Business Management, Former professional athlete.
 
 
-**Where to find me:** :mag:
-* [LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
-* [Medium](https://biancarisaac.medium.com/)
+**Where to find me:** 🔍
+* :briefcase:[LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
+* :pencil2:[Medium](https://biancarisaac.medium.com/)
+* :email: [E-mail](biancarisaac@gmail.com)
+* :camera: [Instagrram](https://biancarisaac.medium.com/)
 
 
 ## Projects:
