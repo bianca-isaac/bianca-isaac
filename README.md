@@ -23,11 +23,13 @@ I'm currently studying the tools for Data Science to be able to gain more busine
 * Undergraduate in Physical Education
 * M.B.A. in Project Management 
 
----
+
 
 **Skills in:** 🤓 
 Econometrics, Power BI, Business Management, Former professional athlete.
 
+---
+** [Portfólio page:] (https://github.com/bianca-isaac/Portfolio)
 ---
 
 **Where to find me:** 🔍
@@ -35,15 +37,7 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 * :pencil2:[Medium](https://biancarisaac.medium.com/) 
 * :email: [E-mail](biancarisaac@gmail.com)
 * :camera: [Instagrram](https://biancarisaac.medium.com/)
-
+* 
 ---
 
-## Projects:
-
-* **Team-correlation matrix and Descriptive analysis - NBA:** https://bit.ly/2MUdbVR
-* **Análise de dados de Toronto - Canadá usando Pandas e dos Dados do Airbnb:** https://bit.ly/2OOvxrH
-
-
-
-## Medium:
-* **Como organizar sua vida com o Notion:** https://bit.ly/2O5OO7Q
+![](https://komarev.com/ghpvc/?username=bianca-isaac&color=blue&style=flat
