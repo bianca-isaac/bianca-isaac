@@ -39,11 +39,11 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 * :briefcase:[LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
 * :pencil2:[Medium](https://biancarisaac.medium.com/) 
 * :email: [E-mail](biancarisaac@gmail.com)
-* :camera: [Instagrram](https://biancarisaac.medium.com/)
+* :camera: [Instagram](https://biancarisaac.medium.com/)
 * 
 ---
 
-![](https://komarev.com/ghpvc/?username=bianca-isaac&color=blue&style=flat
+
 
 
 
