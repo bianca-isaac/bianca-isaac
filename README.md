@@ -38,8 +38,8 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 **Where to find me:** 🔍
 * :briefcase:[LinkedIn](https://www.linkedin.com/in/bianca-rodrigues-isaac/)
 * :pencil2:[Medium](https://biancarisaac.medium.com/) 
-* :email: [E-mail](biancarisaac@gmail.com)
-* :camera: [Instagram](https://biancarisaac.medium.com/)
+* :email: [E-mail](mailto:biancarisaac@gmail.com)
+* :camera: [Instagram](https://www.instagram.com/bia.isaac/)
 
 ---
 
