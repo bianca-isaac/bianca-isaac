@@ -43,7 +43,7 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 
 ---
 
-
+![](https://komarev.com/ghpvc/?username=bianca-isaac&color=yellowgreen&style=flat)
 
 
 
