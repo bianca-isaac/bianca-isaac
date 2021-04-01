@@ -40,7 +40,7 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 * :pencil2:[Medium](https://biancarisaac.medium.com/) 
 * :email: [E-mail](biancarisaac@gmail.com)
 * :camera: [Instagram](https://biancarisaac.medium.com/)
-* 
+
 ---
 
 
