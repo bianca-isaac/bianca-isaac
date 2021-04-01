@@ -31,7 +31,7 @@ Econometrics, Power BI, Business Management, Former professional athlete.
 ---
 
 
-**Portfólio page** (https://bit.ly/2PrPiWG)
+**Portfolio page** (https://bit.ly/2PrPiWG)
 
 ---
 
