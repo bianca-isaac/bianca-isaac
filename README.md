@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/bianca-isaac/Portfolio/blob/main/Capa_github.jpg" >
+  <img src="https://raw.githubusercontent.com/bianca-isaac/Portfolio/main/Images/Capa_linkedin.png" >
 </p>
 
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
