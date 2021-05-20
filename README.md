@@ -20,7 +20,6 @@ I'm currently studying the tools for Data Science to be able to gain more busine
 **Academic Educational background** 🎓
 * Data Science Student 
 * B.A. in Economics Economia
-* Undergraduate in Physical Education
 * M.B.A. in Project Management 
 
 
