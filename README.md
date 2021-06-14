@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/-biancaisaac-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-rodrigues-isaac/) [![Medium](https://badgen.net/badge/icon/biancaisaac?icon=medium&label)](https://biancarisaac.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/-biancaisaac-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-rodrigues-isaac/) [![Medium Badge]](https://badgen.net/badge/icon/biancaisaac?icon=medium&label)](https://biancarisaac.medium.com/)
 
 
 <p align="center">
