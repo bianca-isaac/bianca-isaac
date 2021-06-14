@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-biancaisaac-blue.svg)](https://www.linkedin.com/in/bianca-rodrigues-isaac/) [![Medium](https://img.shields.io/badge/Medium-biancaisaac-green)](https://biancarisaac.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/-biancaisaac-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-rodrigues-isaac/) [![Medium](https://badgen.net/badge/icon/biancaisaac?icon=medium&label)](https://biancarisaac.medium.com/)
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 
 Over the years I have managed to develop critical thinking and problem solving skills.
-I have experience in business and sports performance statistical analysis and I work with data collection, preparation, and presentation.
+I have experience in business and sports performance statistical analysis and I work with data collection, preparation and presentation.
 
 
 I'm currently studying the tools for Data Science to be able to gain more business insights and help the company's growth.
