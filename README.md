@@ -16,10 +16,12 @@ I have experience in business and sports performance statistical analysis and I 
 
 I'm currently studying the tools for Data Science to be able to gain more business insights and help the company's growth.
 
+ I regularly write articles on :pencil2:[Medium](https://pingback.com/biancaisaac)
+
 
 **Academic Educational background** 🎓
 * Data Science Student 
-* B.A. in Economics Economia
+* B.A. in Economics
 * M.B.A. in Project Management 
 
 
